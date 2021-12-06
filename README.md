@@ -2,6 +2,8 @@
 **Author:** Aziza Gulyamova
 ***
 
+![image](figures/cust.jpeg)
+
 ## Business Problem
 It is clear that most of the businessess are client oriented and their success depends on customers' experiences. Customer complaints categorization can be useful to automatically categorize the reason of client's unsatisfaction and help to quickly respond to them when they (and your company) need it most. This project aims to classify the complains of bank customers.
 
