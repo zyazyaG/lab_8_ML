@@ -21,18 +21,29 @@ Before proceeding to modeling I've performed EDA and plotted graphs.
 
 ![image1](figures/sub.png)
 
+***
+
 ### Issue Types
 
 ![image2](figures/issue.png)
+
+
+***
+
 
 ### Companies Responces
 
 ![image3](figures/resp.png)
 
+
+***
+
+
 ### Companies Distibution
 
 ![image4](figures/company.png)
 
+***
 ## EDA Results:
 
 * Most of the complaints are **related to credit reporting**
